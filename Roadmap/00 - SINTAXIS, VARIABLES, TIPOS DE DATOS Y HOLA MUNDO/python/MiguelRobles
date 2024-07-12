@@ -1,0 +1,12 @@
+# https://www.python.org/
+
+# comentario en una línea
+
+"""
+Así podemos
+crear un comentario
+en varias lineas
+"""
+
+mi_primer_variable = "Mi primer variable"
+
